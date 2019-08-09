@@ -9,4 +9,6 @@
 
 [实现一个简单的VueRouter](https://github.com/Drowned-fish/Articles/blob/master/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84VueRouter.md)
 
+[~~JS实现简单的Redux~~]()
+
 如果文章对你有帮助，请给个star。
