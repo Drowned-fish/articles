@@ -9,6 +9,8 @@
 
 [实现一个简单的VueRouter](https://github.com/Drowned-fish/Articles/blob/master/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84VueRouter.md)
 
+[你所不知道的eval](https://github.com/Drowned-fish/Articles/blob/master/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84eval.md)
+
 [~~JS实现简单的Redux~~]()
 
 [~~Chrome插件开发学习笔记~~]()
