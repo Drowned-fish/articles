@@ -5,7 +5,16 @@
 
 > WebRTC (Web Real-Time Communication) 是一个可以用在视频聊天，音频聊天或[P2P](https://baike.baidu.com/item/%E7%82%B9%E5%AF%B9%E7%82%B9%E4%BC%A0%E8%BE%93/8491956?fr=aladdin)文件分享等Web App中的 API。
 
+2010年5月，Google 花费6820万美元收购拥有编解码、回声消除等技术的 GIPS 公司。之后谷歌开源了 GIPS 的技术，与相关机构 IETF 和 W3C 制定行业标准，组成了现有的 WebRTC 项目。
+
+WebRTC 全称 Web Real-Time Communication。它并不是单一的协议， 包含了媒体、加密、传输层等在内的多个协议标准以及一套基于 JavaScript 的 API。通过简单易用的 JavaScript API ，在不安装任何插件的情况下，让浏览器拥有了 P2P音视频和数据分享的能力。
+
 WebRTC是一项可以在浏览器或移动端中进行音频和视频交流的技术，它还可以进行P2P文件共享，实现在线视频会议等。
+
+## WebRTC的潜力在哪里？
+
+事实上WebRTC是不受限于Native App或者浏览器终端运行环境的。Browser、desktop App、Android、iOS、IoT都可以，你只要IP连接且符合规范就可以互通。
+
 
 WebRTC 主要包括以下几部分:
 
@@ -78,3 +87,6 @@ Alice和Eve也需要交换网络信息。“查找候选项”这个表达是指
          
  ## 设备支持情况
  
+ ## 参考资料
+ [WebRTC有前途吗？](https://www.zhihu.com/question/22301898)
+ [webRTC初探？](https://cloud.tencent.com/developer/article/1497133)
