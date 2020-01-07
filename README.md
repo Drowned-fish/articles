@@ -13,7 +13,7 @@
 
 [你所不知道的eval](https://github.com/Drowned-fish/Articles/blob/master/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84eval.md)
 
-[~~express中如何在router中操作socket~~](https://github.com/Drowned-fish/articles/blob/master/%E5%A6%82%E4%BD%95%E5%9C%A8express%E7%9A%84%E8%B7%AF%E7%94%B1%E4%B8%AD%E6%93%8D%E4%BD%9Csocket.io.md)
+[如何在express的路由中操作socket](https://github.com/Drowned-fish/articles/blob/master/%E5%A6%82%E4%BD%95%E5%9C%A8express%E7%9A%84%E8%B7%AF%E7%94%B1%E4%B8%AD%E6%93%8D%E4%BD%9Csocket.io.md)
 
 [~~前端发送图片，nodejs如何接受~~]()
 
