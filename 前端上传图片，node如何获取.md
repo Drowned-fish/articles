@@ -17,9 +17,9 @@
 
 ![image](https://raw.githubusercontent.com/Drowned-fish/markdown-images/master/input2.png)
 
-给`input`添加`onchange`属性，当选择完文件可以在`onchange`的函数中获取选择的文件，因此我们在`onchange`中判断文件是不是图片类型，如果不是再给出提示。
+因此我们在`onchange`中判断文件是不是图片类型，如果不是再给出提示。给`input`添加`onchange`属性，当选择完文件可以在`onchange`的函数中获取选择的文件。
 
-![image](https:/raw.githubusercontent.com/Drowned-fish/markdown-images/master/input3.png)
+![image](https://raw.githubusercontent.com/Drowned-fish/markdown-images/master/input3.png)
 
 在**handleChangeFile**中，先判断文件大小、文件类型，接着把文件信息存到`FormData`上传。
 
