@@ -101,7 +101,7 @@
     app.use('/', indexRouter)
     ...
 ```
-在**app.js**中，我们并没有设置存放目录。
+在**app.js**中，我们并没有设置存放目录，而是由具体路由中**multer**来定义。
 
 ```javascript
     var express = require('express')
@@ -127,7 +127,7 @@
 ```
 前端选择图片上传，后端成功获取
 
-![image](https:/raw.githubusercontent.com/Drowned-fish/markdown-images/master/input4.png)
+![image](https://raw.githubusercontent.com/Drowned-fish/markdown-images/master/input4.png)
 
 ## 参考资料
 
