@@ -19,7 +19,7 @@
 
 [~~关于websocket发送图片的解答~~]()
 
-[~~base64如何转化为file文件（例子截图如何转化为file文件）~~]()
+[以截图为例，怎么base64转为File](https://github.com/Drowned-fish/articles/blob/master/%E4%BB%A5%E6%88%AA%E5%9B%BE%E4%B8%BA%E4%BE%8B%EF%BC%8C%E6%8A%8Abase64%E8%BD%ACFile.md)
 
 [~~emoji组件~~]()
 
